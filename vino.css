@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+section{
+    border: 2px solid;
+    margin-top: 30px;
+    width: 500px;
+    height: 600px;
+    margin-left: 390px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+.a{
+    color: blue;
+    text-align: center;
+    padding: 70px;
+}
+
+body{
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    margin-left: 100px;
+    margin-top: -60px;
+    font-size: 20px;
+}
+.c{
+    border: 1px solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+    margin-top: 50px;
+}
+.d{
+    border: 1px solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+}
+.e{
+    border: 1px solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+}
+#q{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#w{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#r{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.kisvin{
+    margin-left: 200px;
+    border: 1px solid;
+    margin-right: 130px;
+    margin-left: 130px;
+    text-align: center;
+    height: 35px;
+    border-radius: 16px;
+    margin-top: 20px;
+    background-color: aqua;
+}
+.kivinya{
+    margin-left: 200px;  
+    margin-top: 30px;
+    border: 1px solid;
+    margin-right: 130px;
+    margin-left: 130px;
+    text-align: center;
+    height: 35px;
+    border-radius: 16px;
+    box-shadow: inset;
+    background-color: aqua;
+}
+.kivinya button{
+    margin-top: 3px;
+    background-color: aqua;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    
+}
+.kisvin button{
+    margin-top: 3px;
+    background-color: aqua;
+    outline: none;
+    border: none;
+    font-size: 20px;
+}
